@@ -1,0 +1,10 @@
+C:\Users\Shuvo\source\repos\Coffy\Coffy\bin\Debug\Coffy.exe.config
+C:\Users\Shuvo\source\repos\Coffy\Coffy\bin\Debug\Coffy.exe
+C:\Users\Shuvo\source\repos\Coffy\Coffy\bin\Debug\Coffy.pdb
+C:\Users\Shuvo\source\repos\Coffy\Coffy\obj\Debug\Coffy.Form1.resources
+C:\Users\Shuvo\source\repos\Coffy\Coffy\obj\Debug\Coffy.Properties.Resources.resources
+C:\Users\Shuvo\source\repos\Coffy\Coffy\obj\Debug\Coffy.csproj.GenerateResource.cache
+C:\Users\Shuvo\source\repos\Coffy\Coffy\obj\Debug\Coffy.csproj.CoreCompileInputs.cache
+C:\Users\Shuvo\source\repos\Coffy\Coffy\obj\Debug\Coffy.exe
+C:\Users\Shuvo\source\repos\Coffy\Coffy\obj\Debug\Coffy.pdb
+C:\Users\Shuvo\source\repos\Coffy\Coffy\obj\Debug\Coffy.csprojAssemblyReference.cache
